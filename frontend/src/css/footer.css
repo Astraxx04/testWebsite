@@ -80,7 +80,7 @@ a:hover {
     }
     
     .doc-link {
-        font-size: 0.7rem;
+        font-size: 0.55rem;
     }
     
     .madeby {
@@ -133,7 +133,7 @@ a:hover {
     }
     
     .documents {
-        width: 80%;
+        width: 95%;
         display: flex;
         justify-content: space-around;
         margin-left: auto;
@@ -141,7 +141,7 @@ a:hover {
     }
     
     .doc-link {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
     
     .madeby {

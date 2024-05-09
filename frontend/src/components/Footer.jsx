@@ -45,8 +45,12 @@ function Footer() {
                     <p className="doc-link">Tarana: <a href="tel:7483408791">7483408791</a></p>
                 </div>
                 <div className="documents" style={{fontFamily:"pixeloidsans"}}>
+                    <p className="doc-link copyright">© 2024 Hackman</p>
+                    <p className="doc-link">|</p>
                     <p className="doc-link"><a href="#11">Code of Conduct</a></p>
+                    <p className="doc-link">|</p>
                     <p className="doc-link"><a href="#11">Terms and Conditions</a></p>
+                    <p className="doc-link">|</p>
                     <p className="doc-link"><a href="#11">Instructions</a></p>
                 </div>
                 <div className="madeby" style={{fontFamily:"pixeloidsans"}}>Made by team <a href="https://www.instagram.com/genesis.ise/" rel='noreferrer noopener' target="_blank" className='genesis-link'>Genesis</a> with <span className="heart">❤️</span></div>

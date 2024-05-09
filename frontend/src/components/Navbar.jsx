@@ -62,9 +62,9 @@ function Navbar() {
             <a href="/#schedule" className="nav-link">Schedule</a>
           </li> */}
           
-          {/* <li className="nav-item" onClick={closeMobileMenu}>
-            <Link to="/registration" className="nav-link">Register</Link>
-          </li> */}
+          <li className="nav-item" onClick={closeMobileMenu}>
+            <Link to="/register" className="nav-link">Register</Link>
+          </li>
 
           {/* Profile Icon for Mobile */}
           <li className="nav-item mobile-profile-icon" onClick={closeMobileMenu}>

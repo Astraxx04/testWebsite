@@ -24,17 +24,21 @@
 
 @media (max-width: 767px) {
   .img-fluid {
-    scale: 0.8;
+    scale: 0.9;
   }
   .sponsors-heading {
     font-family: karmatic;
     color: white;
     font-size: 1.6rem;
     padding: 6%;
+    margin-bottom: 4rem;
   }
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+  .img-fluid {
+    scale: 0.7;
+  }
   .sponsors-heading {
     font-family: karmatic;
     color: white;

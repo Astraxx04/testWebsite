@@ -183,14 +183,14 @@ a:hover {
     .contact-no {
         padding-top: 1rem;
         display: flex;
-        width: 30%;
+        width: 34%;
         justify-content: space-between;
         margin-left: auto;
         margin-right: auto;
     }
     
     .contact-no p {
-        font-size: 1.2rem;
+        font-size: 1.4rem;
     }
     
     .documents {
@@ -202,7 +202,7 @@ a:hover {
     }
     
     .doc-link {
-        font-size: 1.4rem;
+        font-size: 1rem;
     }
     
     .madeby {
